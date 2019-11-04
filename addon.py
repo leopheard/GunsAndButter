@@ -9,7 +9,7 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://i1.sndcdn.com/avatars-000132567928-4i1ipn-large.jpg"},
+            'thumbnail': "https://i1.sndcdn.com/avatars-000132567928-4i1ipn-original.jpg"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
